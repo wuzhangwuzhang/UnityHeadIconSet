@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{20D975AF-94C2-8ED9-8185-63F30EAADCD1}") = "TakePhotoUnityProject", "Assembly-CSharp.csproj", "{357A1574-4D92-5E7F-EEAC-15FCB0454A63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357A1574-4D92-5E7F-EEAC-15FCB0454A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357A1574-4D92-5E7F-EEAC-15FCB0454A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357A1574-4D92-5E7F-EEAC-15FCB0454A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357A1574-4D92-5E7F-EEAC-15FCB0454A63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
